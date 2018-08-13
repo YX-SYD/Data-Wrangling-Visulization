@@ -1,6 +1,6 @@
 ## My data wrangling and visulization projects.
 ### 1. [Data Analysis of the “War of the Five Kings”](https://github.com/YX-SYD/Data-Wrangling-Visulization/blob/master/war-of-five-kings/Game_of_thrones_battle_analysis.ipynb) - Game of Thrones. <br/>
-Through extensive EDA, I answer the following questions:
+Through extensive EDA, I answered the following questions:
 - Which year has the most battles?
 - Which region sees the largest number of battles?
 - Which king attacks most? Which king wins the most battles as an attacker?
