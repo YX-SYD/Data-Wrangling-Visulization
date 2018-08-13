@@ -1,0 +1,12 @@
+## My data wrangling and visulization projects.
+1. Data Analysis of the “War of the Five Kings” - Game of Thrones
+Through extensive EDA, I answer the following questions:
+- Which year has the most battles?
+- Which region sees the largest number of battles?
+- Which king attacks most? Which king wins the most battles as an attacker?
+- Which battle type is more common?What battle styles are used by each attacker king.
+- The impact of army size.
+- The impact of season.
+- How many commanders are owned by each attacker king?
+- Which commander leads most battles as an attacker commander?Who are the commanders with the most victories of each attacker king?
+Does the major house fight alone or with allies in attacker side?
